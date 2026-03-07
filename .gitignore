@@ -4,11 +4,6 @@ __pycache__/
 *$py.class
 .ipynb_checkpoints/
 
-# Virtual Environments
-venv/
-env/
-.env
-
 # Deep Learning Data & Weights (CRITICAL)
 data/
 models/*.pth
@@ -18,3 +13,16 @@ models/*.pth
 # OS generated files
 .DS_Store
 Thumbs.db
+
+# Ignore datasets
+*.npy
+*.npz
+*.h5
+
+# Ignore Python cache
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
