@@ -72,3 +72,5 @@ pip install -r requirements.txt
 # This script verifies that the local data directories are correctly mapped 
 # and that the PyTorch DataLoaders are correctly extracting 1-channel tensors.
 python test_pipeline.py
+
+[📄 Read my official GSoC 2026 Proposal Here](Kartik_Chavan_DeepLense_Proposal.pdf)
