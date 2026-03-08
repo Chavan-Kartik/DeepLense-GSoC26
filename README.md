@@ -1,5 +1,5 @@
 
-# DeepLense: Dark Matter Substructure Detection & Super-Resolution
+# DeepLense: Unsupervised Super-Resolution and Analysis of Real Lensing Images
 **Google Summer of Code 2026 Evaluation Repository | Machine Learning for Science (ML4Sci)**
 
 GSoC 2026 ML4Sci DeepLense: Common Task I &amp; Specific Task VI (A &amp; B) (Super-resolution)
