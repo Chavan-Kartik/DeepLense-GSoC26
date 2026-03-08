@@ -19,9 +19,9 @@ This repository contains my completed evaluation tasks for the ML4Sci DeepLense 
 * **Architecture:** Adapted `timm`-backed ResNet18 optimized for 1-channel sparse inputs.
 * **Engineering:** Implemented `CosineAnnealingLR` and strict dynamic model checkpointing (tracking `val_loss`) to completely avoid overfitting to sensor noise.
 * **Results:** Near-perfect classification metrics mapped with domain-standard colormaps.
-    * **AUC (No Substructure):** 0.9922
-    * **AUC (Sphere):** 0.9845
-    * **AUC (Vortex):** 0.9945
+    * **AUC (No Substructure):** 0.9924
+    * **AUC (Sphere):** 0.9853
+    * **AUC (Vortex):** 0.9950
 
 ![ROC Curve](visuals/roc_curve.png)
 
