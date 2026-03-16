@@ -50,7 +50,7 @@ While the evaluation tasks required supervised learning, my official GSoC propos
 
 Building upon recent DeepLense literature (e.g., Reddy et al., 2024), the final cell of the `03_Task_VI_B_TransferLearning.ipynb` notebook contains my preliminary PyTorch architectural blueprint for an Unsupervised Score-Based Generative Model (NCSN++) utilizing Predictor-Corrector sampling to infer missing high-frequency structures from unpaired empirical data.
 
-[📄 Read my official GSoC 2026 Proposal Here](Kartik_Chavan_DeepLense_Proposal.pdf)
+[📄 Read my official GSoC 2026 Proposal Here](KartikChavanDeepLenseProposal.pdf)
 
 ---
 
